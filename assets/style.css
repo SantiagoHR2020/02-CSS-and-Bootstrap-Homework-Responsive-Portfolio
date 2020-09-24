@@ -3,12 +3,62 @@
 }
 
 .portfolioH1{
-    margin-left: 50px;
+    margin-top: 35px;
 }
 
+.contactContainer {
+  margin-top: 130px;
+}
+body{
+  background-color: lightgreen;
+}
 
+ /* Style all font awesome icons */
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  .fa {
+    
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa-linkedin-square {
+    
+    background: #2867b2;
+    color: white;
+  }
+  
+  .fa-github-square {
+    
+    background: black;
+    color: white;
+  } 
 
+  .fa-address-book-o{
+    
+    background: red;
+    color: white;
+  }
 
+  footer{
+    height: 120px;
+  }
 
 
 
