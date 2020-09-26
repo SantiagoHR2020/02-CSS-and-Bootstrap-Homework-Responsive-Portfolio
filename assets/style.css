@@ -1,3 +1,5 @@
+
+
 .pickRow {
     margin: 30px;
 }
@@ -9,9 +11,7 @@
 .contactContainer {
   margin-top: 130px;
 }
-body{
-  background-color: lightgreen;
-}
+
 
  /* Style all font awesome icons */
  .fa {
@@ -37,7 +37,11 @@ body{
     text-align: center;
     text-decoration: none;
   }
-  
+  .fa-html5 {
+    background: #e44d26;
+    color: white;
+  }
+
   .fa-linkedin-square {
     
     background: #2867b2;
@@ -56,9 +60,18 @@ body{
     color: white;
   }
 
+  .fa-git-square{
+    background: black;
+    color: white;
+  }
+
   footer{
     height: 120px;
   }
+/* 
+  body{
+    background-color: chartreuse;
+  } */
 
 
 
