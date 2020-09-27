@@ -1,19 +1,47 @@
+/* about page */
+
+.aboutContainer{
+  margin-top: 35px;
+  padding: 20px;
+}
 
 
-.pickRow {
-    margin: 30px;
+.aboutContainer col-sm-{
+  margin-top: 0px;
+  padding: 0px;
+}
+
+.aboutContainer col-md-{
+  margin-top: 35px;
+  padding: 20px;
+}
+/* Portfolio page  */
+
+.portfolioContainer main{
+  margin-bottom: 630px;
 }
 
 .portfolioH1{
     margin-top: 35px;
 }
 
+.portfolioContainer .card-body{
+  min-height: 480px;
+}
+
+
+/* Contatct page */
+
 .contactContainer {
   margin-top: 130px;
 }
 
+.pickRow {
+  margin: 30px;
+}
 
  /* Style all font awesome icons */
+
  .fa {
     padding: 20px;
     font-size: 30px;
@@ -23,11 +51,13 @@
   }
   
   /* Add a hover effect if you want */
+
   .fa:hover {
     opacity: 0.7;
   }
   
   /* Set a specific color for each brand */
+
   .fa {
     
     padding: 10px;
@@ -68,6 +98,8 @@
   footer{
     height: 120px;
   }
+
+ 
 /* 
   body{
     background-color: chartreuse;
