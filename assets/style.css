@@ -17,8 +17,8 @@
 }
 /* Portfolio page  */
 
-.portfolioContainer main{
-  margin-bottom: 630px;
+.porMar {
+  margin-bottom: 5rem;
 }
 
 .portfolioH1{
@@ -28,6 +28,11 @@
 .portfolioContainer .card-body{
   min-height: 480px;
 }
+
+.card {
+  width: 30rem
+}
+
 
 
 /* Contatct page */
@@ -57,6 +62,7 @@
   }
   
   /* Set a specific color for each brand */
+  /* Footer */
 
   .fa {
     
@@ -95,15 +101,18 @@
     color: white;
   }
 
+.aboutContainer{
+  margin-bottom: 10rem;
+}
+
   footer{
     height: 120px;
+   
   }
 
- 
-/* 
-  body{
-    background-color: chartreuse;
-  } */
 
+ 
+
+ 
 
 
