@@ -14,7 +14,11 @@ Contains three pages; About Me, Portfolio, and Contact pages.
 
 # About Me (Tablet Imange)
 
+![screenshot of about me page tablot image](assets/images/Screenshots/screenshot2.PNG)
+
 # About Me (Phone Imange)
+
+![screenshot of about me page phone image](assets/images/Screenshots/screenshot3.PNG)
 
 # Portfolio (Desktop Imange)
 
