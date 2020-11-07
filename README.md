@@ -6,7 +6,7 @@
 
 # Link to web site
 
-https://santiagohr2020.github.io/02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/
+https://santiagohr2020.github.io/CSS-and-Bootstrap-Homework-Responsive-Portfolio/
 
 # Page layout
 
